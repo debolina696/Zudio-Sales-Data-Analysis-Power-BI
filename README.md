@@ -80,4 +80,77 @@ All visuals include **interactive tooltips** for deeper insights.
 ## ✅ Conclusion
 This dashboard provides a **scalable and insight-driven sales analysis solution** for Zudio, combining robust data modeling, advanced DAX, and interactive visuals to support data-driven decision-making.
 - Zudio Sales Dashboard link -  https://github.com/debolina696/Zudio-Sales-Data-Analysis-Power-BI/blob/main/Zudio%20Sales%20Dashboard.png
-- 
+  # 📦 Zudio Inventory & Store Analysis Dashboard (Page 2)
+
+## 🔍 Page Overview
+This dashboard page focuses on **inventory, store operations, and workforce analysis** across Zudio outlets.  
+It provides insights into **store distribution, staff strength, store ownership type**, and **manager-level performance**, supported by **detailed tooltip tables** for granular drill-through analysis.
+
+---
+
+## 🧱 Analytical Focus Areas
+- Store-wise sales contribution
+- City & State-wise store distribution
+- Owned vs Rented store analysis
+- Staff strength and store capacity
+- Manager and customer-level sales breakdown
+
+---
+
+## 📌 Key KPIs
+- **Total Staff Count**
+- **Total Store Count**
+- **Average Store Area Size**
+- **Owned Store Count**
+- **Rented Store Count**
+- **Total Managers Count**
+
+---
+
+## 📊 Visuals & Insights
+- **Total Sales by Store Address**
+  - Identifies high and low performing store locations
+- **City-wise Total Sales vs Store Count**
+  - Compares sales contribution against store density
+- **State-wise Store Count**
+  - Distribution of stores across states
+- **Customer ID-wise Details**
+  - Total sales, units sold, and order count per customer
+- **Manager ID-wise Details**
+  - Sales performance mapped to store managers
+- **Analytical Field (AI-assisted)**
+  - Quick insight suggestions based on sales and cost trends
+
+---
+
+## 🧾 Tooltip Drill-Through Tables
+Custom **tooltip pages** are added to enhance analysis, showing:
+- State → City → Store-level staff count
+- Store ownership type (Owned / Rented)
+- Staff strength per store
+- Aggregated totals for quick comparison
+
+These tooltips enable **context-aware insights** without navigating away from the main dashboard.
+
+---
+
+## 🧠 Business Value Delivered
+- Evaluate **store efficiency vs manpower**
+- Identify **overstaffed or understaffed locations**
+- Compare performance of **owned vs rented stores**
+- Monitor **manager-wise accountability**
+- Support expansion and optimization decisions
+
+---
+
+## 🛠️ Techniques Used
+- Tooltip Pages with detailed tables
+- Star Schema filtering
+- DAX-based aggregations
+- Cross-filtering across visuals
+- Interactive slicers for State, City, Store, Security Type
+
+--- Zudio Inventory Dashboard Link 
+
+## ✅ Conclusion
+Page 2 strengthens operational visibility by combining **inventory metrics, store analytics, and workforce insights** with **interactive tooltip-driven exploration**, enabling data-driven retail optimization.
