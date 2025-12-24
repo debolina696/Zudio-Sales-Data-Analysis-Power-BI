@@ -79,4 +79,5 @@ All visuals include **interactive tooltips** for deeper insights.
 
 ## ✅ Conclusion
 This dashboard provides a **scalable and insight-driven sales analysis solution** for Zudio, combining robust data modeling, advanced DAX, and interactive visuals to support data-driven decision-making.
-- Zudio Sales Dashboard link -  
+- Zudio Sales Dashboard link -  https://github.com/debolina696/Zudio-Sales-Data-Analysis-Power-BI/blob/main/Zudio%20Sales%20Dashboard.png
+- 
