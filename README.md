@@ -237,4 +237,4 @@ Tooltips provide **context-rich insights** without leaving the current visual.
 
 ## ✅ Conclusion
 The drill-through and tooltip pages transform the dashboard into a **fully interactive analytical solution**, enabling users to move from **high-level KPIs to store-level details** while maintaining analytical context and usability.
--DrillThrough link - 
+-DrillThrough link - https://github.com/debolina696/Zudio-Sales-Data-Analysis-Power-BI/blob/main/Drill%20Through%20Category%20Details.png
