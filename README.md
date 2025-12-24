@@ -154,3 +154,87 @@ These tooltips enable **context-aware insights** without navigating away from th
 
 ## ✅ Conclusion
 Page 2 strengthens operational visibility by combining **inventory metrics, store analytics, and workforce insights** with **interactive tooltip-driven exploration**, enabling data-driven retail optimization.
+# 🗺️ Zudio Sales Drill-Through & Tooltip Analysis (Pages 3 & 4)
+
+## 🔍 Page Overview
+These pages enhance the Zudio Sales dashboard with **geographical insights, category deep-dives, and store-level drill-through analysis**.  
+They are designed to support **exploratory analysis** using **map visuals, detailed tables, drill-through actions, and tooltip pages**.
+
+---
+
+## 🌍 Page 3: Geo Sales & Category Analysis
+
+### 📌 Visuals Included
+- **Map Visual (City-Level)**
+  - Displays Total Sales, Total Profit, Store Count, and Staff Count
+  - Bubble size and color indicate sales contribution
+- **State → City → Month Detailed Table**
+  - Drill-enabled table showing:
+    - Total Sales
+    - Total Profit
+    - Month-wise breakdown
+- **Category-wise Sales Distribution**
+  - Donut chart showing sales split across:
+    - Men
+    - Women
+    - Kids
+- **Clothing Type-wise Sales**
+  - Bar chart comparing sales across product types
+
+---
+
+## 📊 Category Performance Analysis
+- Month-wise sales and profit comparison by category
+- Identifies **seasonal demand patterns**
+- Supports category-level strategic planning
+
+---
+
+## 🔁 Drill-Through Functionality
+Drill-through actions are enabled from:
+- **Map (City level)** → Category Details
+- **Category visuals** → Store Age & Store Address Analysis
+- **Sales visuals** → Store-level performance
+
+This allows users to navigate seamlessly from summary to granular insights.
+
+---
+
+## 🧾 Page 4: Store Age & Address Drill-Through
+
+### 📌 Drill-Through Table
+- **Store Address**
+- **Store Age**
+- **Store Category**
+
+Used to analyze:
+- Performance based on store maturity
+- Comparison between new and older stores
+- Store location effectiveness
+
+---
+
+## 🧠 Tooltip Pages (Key Highlight)
+Custom tooltip pages are implemented across visuals to display:
+- Store Address
+- Store Age
+- Store Category
+- Staff Count
+- Store Ownership Type (Owned / Rented)
+
+Tooltips provide **context-rich insights** without leaving the current visual.
+
+---
+
+## 🛠️ Techniques Used
+- Drill-Through Pages
+- Tooltip Tables
+- Map Visuals with multi-metric encoding
+- Cross-filtering & highlight interactions
+- Hierarchical navigation (State → City → Store)
+
+---
+
+## ✅ Conclusion
+The drill-through and tooltip pages transform the dashboard into a **fully interactive analytical solution**, enabling users to move from **high-level KPIs to store-level details** while maintaining analytical context and usability.
+-DrillThrough link - 
