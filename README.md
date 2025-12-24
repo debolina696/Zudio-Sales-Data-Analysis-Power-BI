@@ -150,7 +150,7 @@ These tooltips enable **context-aware insights** without navigating away from th
 - Cross-filtering across visuals
 - Interactive slicers for State, City, Store, Security Type
 
---- Zudio Inventory Dashboard Link 
+--- Zudio Inventory Dashboard Link https://github.com/debolina696/Zudio-Sales-Data-Analysis-Power-BI/blob/main/Zudio%20Inventory%20Analysis.png
 
 ## ✅ Conclusion
 Page 2 strengthens operational visibility by combining **inventory metrics, store analytics, and workforce insights** with **interactive tooltip-driven exploration**, enabling data-driven retail optimization.
